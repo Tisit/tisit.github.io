@@ -8,6 +8,8 @@
 
 [Tracking failing queries using extended events](https://gist.github.com/Tisit/83b276fa8cc1d52d61fec29d130a0f51)
 
+[Beating deferred name resolution (and finding a bugs on the way)](https://gist.github.com/Tisit/0589802fff93c5ed9239bddb2f07d944)
+
 ## What is this about?
 
 This is my personal blog mostly about SQL Server.
