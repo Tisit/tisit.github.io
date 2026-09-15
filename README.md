@@ -10,6 +10,10 @@
 
 [Beating deferred name resolution (and finding a bugs on the way)](https://gist.github.com/Tisit/0589802fff93c5ed9239bddb2f07d944)
 
+## Other stuff
+
+[Table bloat caused by bulk inserts](https://github.com/Tisit/tisit.github.io/blob/b427631eb6f41cf2ff2f7dc73a36fa09e645bcbf/TableBloat/TableBloat.md) - You might have experience table bloat due to bulk inserts. This is a reproducer of this specific scenario
+
 ## What is this about?
 
 This is my personal blog mostly about SQL Server.
